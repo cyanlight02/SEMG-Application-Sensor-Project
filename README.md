@@ -1,4 +1,4 @@
-# 0120_test_team
+# SEMG-Application-Sensor-Project
 
 This study focuses on the development of input devices for EMG signal detection, signal analysis and signal model development, and applications for signal processing.
 
