@@ -13,3 +13,6 @@ The characteristics of the corresponding operation are machine-learned by settin
 Finally, the detected signal must be able to be processed in a mobile environment. Develop an application that analyzes signals in a mobile environment in real-time and performs a corresponding function.
 
 It would be able to support a simple game function to get used to the operation of an input device, a remote shooting function that can support one-person media production by filming an image by remotely operating a device without direct device operation, and an exercise analysis function that measures muscle imbalance and muscle fatigue during exercise.
+
+![Image](https://github.com/user-attachments/assets/03fa4d86-64c8-45c8-924a-4c1089f3a1d0)
+An Image of Our Project Sample (Myoware 2.0 Sensor(RAW) and Arduino r3)
