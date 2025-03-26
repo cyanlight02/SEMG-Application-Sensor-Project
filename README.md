@@ -7,3 +7,9 @@ Data signal analysis through deep learning develops a model that can recognize p
 In the application development area, an environment in which EMG signals can be used as an input method is established, and an interface is designed so that users can intuitively input actions. It visually feeds back real-time signal analysis results and provides customized functions for various application scenarios.
 
  Additionally, this study takes into account ergonomic design to improve the user experience and explores the possibility of expansion as a universal input technology that can be used in the elderly, the disabled, and special situations.
+
+![신규센서](https://github.com/user-attachments/assets/98642281-2cf7-4331-837d-97055730dd70)
+Sensor used to get emg signal (SZH-GJD001)
+
+![emg센서 측정결과 (2)](https://github.com/user-attachments/assets/941c0c83-419b-49cc-b0fa-cf4a7d82f1ce)
+Image of getting emg signal (single channel ver.)
