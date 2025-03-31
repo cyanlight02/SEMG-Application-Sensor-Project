@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+from joblib import dump
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from tensorflow.keras.models import Sequential
@@ -64,3 +65,4 @@ print(f"Test Accuracy: {accuracy * 100:.2f}%")
 
 # 모델 저장
 model.save('lstm_model.h5')
+dump(scaler, 'scaler.joblib')
