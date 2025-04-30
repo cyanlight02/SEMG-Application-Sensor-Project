@@ -1,0 +1,14 @@
+emg_dataset 폴더 생성 필요
+가상환경설정
+# 가상환경 생성
+python -m venv venv
+
+# 가상환경 활성화 (Windows)
+venv\Scripts\activate
+
+# 가상환경 활성화 (Mac/Linux)
+source venv/bin/activate
+
+pip install pyserial numpy pandas torch scikit-learn pyqtgraph tqdm PyQt5
+위 명령어로 한번에 설치가능
+Windows에서 PyQt5 관련 오류 발생 시 추가로 pip install pyqt5-tools 설치 필요할 수 있음
