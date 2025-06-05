@@ -15,4 +15,5 @@ Sensor used to get emg signal (SZH-GJD001)
 Image of getting emg signal (single channel ver.)
 
 ![image](https://github.com/user-attachments/assets/82c2becd-eb45-4c1f-8603-a0f793d3afe8)
+
 Case of Device, made with BAMBU Studio
