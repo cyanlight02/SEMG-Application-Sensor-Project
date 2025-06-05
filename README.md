@@ -1,4 +1,4 @@
-# 0120_test_team
+# 0120_Sensor_Test
 
 This study focuses on the development of input devices for EMG signal detection, signal analysis and signal model development, and applications for signal processing.
 
